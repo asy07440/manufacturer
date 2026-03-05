@@ -3,4 +3,5 @@
   <Banner2 />
   <Banner3 />
   <Banner4 />
+  <Banner5 />
 </template>
